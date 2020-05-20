@@ -1,0 +1,118 @@
+Start Project _/
+
+Make full working solid object physics _/
+
+make basic movement mencanichs _/
+
+make camera base _/
+
+make unloading mechanic for pc compadiblity _/
+
+make loops _/
+
+make springs _/
+
+make monitors base _/
+
+finsh sonic, sprites and all -
+
+make rings _/
+
+make water_base _/
+
+make basic enemy templet _/
+
+make global enemy hurt script for collision check _/
+
+make ring loss _/
+
+make death - _/
+
+make air bubbles -
+
+make drowning -
+
+make checkpoints -
+
+make global timeing moveing platforms -
+
+make elemental shields -
+
+make attack hitbox for character -
+
+make insta shield -
+
+add rest of monitors -
+
+make tunnels for rolling -
+
+make hazzards base -
+
+make enemy base -
+
+make enemys -
+{
+	rhinobot -
+	
+	monkey dude -
+	
+	catakiller jr -
+	
+	bloominator -
+}
+
+make death plane object -
+
+make tails -
+
+make knuckles -
+
+make camera modes for cutsence/boss fights/level end/one way scrolling -
+
+make switches for event toggles -
+
+make gmmicks object for levels -
+(
+
+	zip-lines -
+	
+	3 sizes of rocks -
+	
+	trapezes -
+	
+	Ballons -
+	
+	bumpers -
+	
+	cannons -
+	
+	spring caps -
+	
+	spinners -
+	
+	mushrooms -
+	
+	breaking walls -
+)
+
+make bridges -
+
+make end level capsule and signpost -
+
+make act trasition modes -
+
+add shadow -
+
+add amy -
+
+add mania sonic -
+
+add blaze -
+
+add gba sonic -
+
+make intro screen -
+
+make disclamer screen -
+
+brag to the guys

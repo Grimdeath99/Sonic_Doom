@@ -1,0 +1,24 @@
+///////////////////////////////////intro cutsecne
+-----------------------------------
+beach- aia1 cycle#3 // displays first 3 colors then shifts to next 3 undill complet full cycle.
+
+ocean - aia1 cycle #2 // displays first 4 colors then shifts to next 4 undill complet full cycle.
+
+
+------------------------------
+
+///////////////////////////////////angel island act 1
+------------------------------
+water fall - aia1 cycle #1 // displays first 4 colors then shifts to next 4 undill complet full cycle.
+
+BG - - aia1 cycle#4 // displays first 3 colors then shifts to next 3 undill complet full cycle.
+
+------------------------------
+
+///////////////////////////////////angel island act 2
+------------------------------
+water fall - aia2 cycle #1 // displays first 4 colors then shifts to next 4 undill complet full cycle.
+
+
+
+------------------------------
