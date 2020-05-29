@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "0a0e5282-3b2c-4b7c-a412-5813aacaf4da",
+            "Value": {
+                "id": "c0ee2c7a-bc81-486f-9be1-861f3f014c16",
+                "resourcePath": "objects\\Base\\Base.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0c104aa3-9479-4ea8-9292-91e12a438a01",
             "Value": {
                 "id": "0e2fa58b-baab-4d1f-bdb0-4878aca4982b",
@@ -532,6 +540,14 @@
                 "id": "4426b3dd-0201-40a1-a1af-ac9923d9c639",
                 "resourcePath": "scripts\\scr_collision_main\\scr_collision_main.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3df872fa-7686-4af8-aaa8-9b5957dd11dd",
+            "Value": {
+                "id": "f47943aa-ac36-4f28-9c71-13d42764829b",
+                "resourcePath": "sprites\\Jade_Gully_Base\\Jade_Gully_Base.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1036,6 +1052,22 @@
                 "id": "c4c52642-43a5-4ce9-8cba-b45a1c879d50",
                 "resourcePath": "scripts\\key_set_up\\key_set_up.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "75915164-1df1-4a19-9019-e56ef204d57c",
+            "Value": {
+                "id": "90b05e5e-09e3-4cac-96e0-857e5f19b4f2",
+                "resourcePath": "views\\75915164-1df1-4a19-9019-e56ef204d57c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7757497f-b314-40aa-b9e5-3b501c85a72a",
+            "Value": {
+                "id": "45c7fd2f-7fa6-4e09-a850-e93aebee638e",
+                "resourcePath": "views\\7757497f-b314-40aa-b9e5-3b501c85a72a.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1583,6 +1615,14 @@
             }
         },
         {
+            "Key": "ab6ffa19-c634-47ac-81ff-020ed7f16674",
+            "Value": {
+                "id": "c36e3ab6-37ca-459c-a535-a1ea212dd912",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ac2b3da5-c9dc-4f46-8e2f-6cf7eefb2e91",
             "Value": {
                 "id": "c99be7ac-f398-4901-9941-137edd12e810",
@@ -1660,6 +1700,14 @@
                 "id": "fc57d392-a018-44b7-9112-02cbeefbca58",
                 "resourcePath": "objects\\obj_collision_02_ball\\obj_collision_02_ball.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b95fcce3-fcfe-4870-8272-8348c1813762",
+            "Value": {
+                "id": "8b9a307a-e7c1-45f9-99bb-1d7ea887a987",
+                "resourcePath": "sprites\\Jade_Gully_Grass_Flat\\Jade_Gully_Grass_Flat.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1812,6 +1860,14 @@
                 "id": "19403d92-4b76-4c0c-9ec4-9a90317f3005",
                 "resourcePath": "views\\c63dbc2d-2581-4a79-a4af-802a8ac74f70.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c72373fe-a4ff-4051-923e-128b6548294f",
+            "Value": {
+                "id": "9e3a314a-2a81-4798-a85f-7cd8ee904bf8",
+                "resourcePath": "objects\\FlatGrass\\FlatGrass.yy",
+                "resourceType": "GMObject"
             }
         },
         {
